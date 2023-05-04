@@ -1,1 +1,1 @@
-
+--server tarafı bitti client tarafını geliştirebilirsiniz. Geliştirmeye açık.
