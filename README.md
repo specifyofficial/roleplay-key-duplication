@@ -1,2 +1,2 @@
 # roleplay-key-duplication
-key duplication for roleplay --author:felicty
+key duplication for roleplay --author:ventus
